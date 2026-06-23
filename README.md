@@ -53,4 +53,4 @@ Visual Components
 5.Price vs Popularity Index -- Scatter plot reveals pricing sweet spots vs demand
 6.Product Stock Table -- Real-time stock levels per supplier for inventory monitoring
 
-screensgots
+screenshot - https://github.com/Udaykumar723/E-Commerce-Analytics-Project/blob/main/power%20Bi%20dashboard%20.png
